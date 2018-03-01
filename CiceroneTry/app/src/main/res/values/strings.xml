@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CiceroneTry</string>
+    <string name="java_welcome">Hello Java</string>
+    <string name="kotlin_welcome">Hello Kotlin</string>
+    <string name="title_activity_bottom_navigaton">BottomNavigatonActivity</string>
+    <string name="navigaton_java">Java</string>
+    <string name="navigaton_kotlin">Kotlin</string>
+</resources>
